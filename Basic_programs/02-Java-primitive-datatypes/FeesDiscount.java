@@ -7,4 +7,4 @@ class FeesDiscount{
 		System.out.println("The discount amount is INR "+discountamount+" and final discounted fee is INR "+discountedfees);
 		}
 	}
-	}
+	
