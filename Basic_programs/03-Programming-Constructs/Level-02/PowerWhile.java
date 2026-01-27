@@ -24,4 +24,4 @@ public class PowerWhile {
             System.out.println(number + " raised to the power " + power + " is: " + result);
         }
     }
-}
+} 
