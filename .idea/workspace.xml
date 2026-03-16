@@ -5,85 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1260911-acaa-407d-aa29-a10b4ed68263" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/Interfaces_Assignment_10/Defining_and_Implementing_Interfaces/SmartDeviceMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/build-in-function/Date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/build-in-function/DateComprison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/build-in-function/DateFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/build-in-function/TimeZo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/Chocolates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/Division.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/Handshakes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/MinMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/NumberCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/Rounds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/SI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/SpringSeason.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/SumNatural.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/Trignometry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-01/WindChill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/ArrayCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/BMI .java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/Factor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/Friends.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/LeapYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/Quadratic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/RandomStats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/StudentVoteChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/SumRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/UnitConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/UnitConverter2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-02/UnitConverter3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/Calander.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/CollinearPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/EmployeeBonus (1).java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/EuclideanDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/Factors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/FootBallTeamHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/MatrixAdvanced.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/MatrixOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/NumberChecker1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/NumberChecker2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/NumberChecker3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/NumberChecker4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/NumberChecker5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/OTPGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/level-03/StudentPCM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q1/college/faculty/faculty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q1/college/student/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q10/college/department/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q10/college/faculty/Faculty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q10/college/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q10/college/student/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q2/com/university/department/cse/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q3/ImportDemonstrations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q5/Library/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q5/Library/books/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q5/Library/members/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q5/Library/transactions/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q6/com/company/Main/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q6/com/company/hr/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q6/com/company/payroll/Payroll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q6B/com/school/data/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q6B/com/school/main/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q6B/com/school/util/Analyzer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q7/com/bank/util/InterestCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q7/com/bank/util/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q8/com/access/one/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q8/com/access/two/Derived.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q9/com/company/analytics/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q9/com/company/analytics/hr/EmployeeReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/pakagesQuestions/Q9/com/company/analytics/sales/SalesReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/FactorialRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/GCDandLCM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/GuessingGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/MaxOfThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/Pallindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/PrimeChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/practice-problem/TempConverter (1).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Interfaces_Assignment_10/Marker_Interfaces/SensitiveMarkerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/Interfaces_Assignment_10/Marker_Interfaces/SensitiveMarkerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
+        <option value="SimpleSourceFile" />
       </list>
     </option>
   </component>
@@ -101,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/com/gla/inheritance/Mammal.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/gla/Interfaces_Assignment_10/Static_Methods_In_Interface/DateUtilityMain.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -118,15 +44,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Abstractionpractice.executor": "Run",
+    "Application.DigitalPaymentMain.executor": "Run",
     "Application.Runner.executor": "Run",
     "Application.com.gla.inheritance.Runner.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Abstraction",
+    "git-widget-placeholder": "interfaces-abstraction",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Bridgelabz-Training-1Y",
-    "project.structure.last.edited": "Project",
+    "onboarding.tips.debug.path": "D:/Bridgelabz-Training-1Y/src/Main.java",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -144,6 +73,17 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Bridgelabz-Training-1Y" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Bridgelabz-Training-1Y" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="TaskManager">
